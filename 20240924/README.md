@@ -1,7 +1,7 @@
 
 # NCHC N-WAY Bootcamp 2024 – NVIDIA GPU 加速運算
 
-## 注意事項 (Matters Needing Attention)
+## 注意事項 (Notice)
 
  1. 本次活動將完全以**中文**進行。\
     This event will be conducted entirely in **Mandarin**.
@@ -30,7 +30,7 @@
  -  第一（09/24）日的線上課程：無需報名，歡迎大家參加
  -  第二（09/25）日的實體課程：請到 <https://www.openhackathons.org/s/siteevent/a0CUP00000L44xb2AB/se000344> 報名
 
-## 師資陣容
+## 師資陣容 (Instructors)
 
  -  Leo CHEN
  -  Anderson MENG
@@ -70,6 +70,11 @@
     | 02:30pm | 04:30pm | Coding Challenge |
     | 04:30pm | 04:40pm | Wrap-up |
 
+## 軟體安裝 (Installation)
+
+ -  ["N-ways to GPU Programming" Deployment Guide](https://github.com/openhackathons-org/nways_accelerated_programming/blob/main/Deployment_Guide.md)
+ -  [Dockerfile for this event](https://github.com/openhackathons-org/nways_accelerated_programming/blob/main/nways_Dockerfile)
+
 ## 預備知識 (Preliminary)
 
  -  Basic experience with C++/Fortran/Python.
@@ -78,7 +83,7 @@
  -  N-ways to GPU Programming Bootcamp Open Source, <https://github.com/openhackathons-org/nways_accelerated_programming>
  -  NCHC-NVIDIA Joint Lab Repository, <https://github.com/nqobu/nvidia>
 
-## 聯絡窗口 (Contact Us)
+## 聯絡窗口 (Contact)
 
 吳先生 &lt;[z@narlabs.org.tw](mailto:z@narlabs.org.tw)&gt;\
 電話：(03) 5776085 分機 220
