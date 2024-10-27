@@ -21,11 +21,12 @@
  -  20240626 - NCHC AI for Science Bootcamp 2024 - NVIDIA Modulus 物理模擬計算
  -  20240806 - NCHC End-to-end LLM Bootcamp 2024 - NVIDIA NeMo 大型語言模型框架
  -  20240924 - NCHC N-Way Bootcamp 2024 – NVIDIA GPU 加速運算
+ -  20241129 - NCHC &times; NTU - NVIDIA BioNeMo Protein Design Workshop 2024
  -  20241204 - NCHC Open Hackathons 2024
 
 > [!NOTE]
 > DO NOT add issues, discussion, or files to this repo.
 
 <!--
-  vim:ic noet norl wrap sw=8 ts=8 sts=8 ft=markdown:
+  vim: ft=markdown ic noet norl wrap sw=8 ts=8 sts=8:
   -->
