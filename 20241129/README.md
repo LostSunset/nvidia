@@ -8,14 +8,18 @@ Join us for an exciting hands-on BioNeMo Protein Design workshop where you’ll 
 ## 師資陣容 (Instructor and TAs)
 
 -  Ying-Ja Chen (NVIDIA, Instructor)
--  Warren Tseng (NVIDIA)
--  Ken Liao (NVIDIA)
--  Jay Chen (NVIDIA)
+-  紀郁祥 (NCHC, Instructor)
+-  吳郁雯 (NCHC, TA)
+-  黃介瑋 (NCHC, TA)
+-  葉昌偉 (NCHC, TA)
+-  Ken Liao (NVIDIA, TA)
+-  Jay Chen (NVIDIA, TA)
 
 ## 活動日期 (Date)
 
 2024 年 11 月 29 日，上午 09:30 ~ 12:00 時。
 
+<!--
 ## 報名截止 (Application Deadline)
 
 自即日起至 2024 年 11 月 12 日 截止
@@ -23,6 +27,7 @@ Join us for an exciting hands-on BioNeMo Protein Design workshop where you’ll 
 ## 報名網址 (Registration)
 
 <https://www.openhackathons.org/s/siteevent/a0CUP00001AF1CS2A1/se000388>
+-->
 
 ## 活動地點 (Address)
 
